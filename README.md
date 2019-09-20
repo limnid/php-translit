@@ -1,4 +1,4 @@
-# UZ Translit
+# Transliterator
 
 **Install**
 ```$xslt
